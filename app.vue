@@ -88,6 +88,17 @@
       </ul>
     </section>
     <img src="/03.jpeg" class="w-full my-10" alt="">
+    <footer class="grid place-items-center">
+      <div class="flex gap-5">
+        <NuxtLink to="https://t.me/wakandandollarportal" class="w-12 aspect-square bg-purple-800 hover:bg-purple-500 justify-center duration-300 ease-in-out rounded-full outline-none focus:outline-none flex items-center gap-4">
+          <IconsTelegram class="w-7 h-7 text-white " />
+        </NuxtLink>
+        <NuxtLink to="https://twitter.com/wakandandollar/" class="w-12 aspect-square bg-purple-800 hover:bg-purple-500 justify-center duration-300 ease-in-out rounded-full outline-none focus:outline-none flex items-center gap-4">
+          <IconsTwitter class="w-7 h-7 text-white" />
+        </NuxtLink>
+      </div>
+      <UiTypographyP class="mt-2">&copy;Beerus Token, {{new Date().getFullYear()}}</UiTypographyP>
+  </footer>
   </main>
 </template>
 <style>
