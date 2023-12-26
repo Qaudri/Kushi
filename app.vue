@@ -19,7 +19,7 @@
     <section>
       <UiTypographyH1>Beerus super token</UiTypographyH1>
       <UiTypographyP>Beerus is the favorite cat of the CEO and author of Dragon Ball. He has super powers, and the CEO of Solana loves cats and their super powers. Tweet about Super Token</UiTypographyP>
-
+      <img src="/01.jpeg" class="w-full my-10" alt="Beerus holding beerus token">
       <ul class="grid md:grid-cols-2 mt-10 gap-8">
         <li class="bg-purple-800 p-5 rounded-xl">
           <div class="background w-full h-48 rounded-md bg-blue-500"></div>
@@ -53,7 +53,7 @@
         </li>
       </ul>
     </section>
-    <img src="/01.jpeg" class="w-full my-10" alt="Beerus">
+    <img src="/02.jpeg" class="w-full my-10" alt="">
     <section>
       <UiTypographyH1 class="saiyan text-center">Roadmap</UiTypographyH1>
       <ul class="grid gap-10 lg:grid-cols-3 mt-10">
@@ -87,6 +87,7 @@
         </li>
       </ul>
     </section>
+    <img src="/03.jpeg" class="w-full my-10" alt="">
   </main>
 </template>
 <style>
