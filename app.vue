@@ -53,6 +53,40 @@
         </li>
       </ul>
     </section>
+    <img src="/01.jpeg" class="w-full my-10" alt="Beerus">
+    <section>
+      <UiTypographyH1 class="saiyan text-center">Roadmap</UiTypographyH1>
+      <ul class="grid gap-10 lg:grid-cols-3 mt-10">
+        <li class="border border-white p-5">
+          <h2 class="saiyan text-6xl">Phase One</h2>
+          <UiTypographyP class="mt-5">
+            V1 website<br  />
+            Launch on  Raydium<br  />
+            Sol trending<br  />
+            Massive marketing
+          </UiTypographyP>
+        </li>
+        <li class="border border-white p-5">
+          <h2 class="saiyan text-6xl">Phase Two</h2>
+          <UiTypographyP class="mt-5">
+            Descreener update<br  />
+            CMC/CG FasTrack<br  />
+            Partnership<br  />
+            More marketing
+          </UiTypographyP>
+        </li>
+        <li class="border border-white p-5">
+          <h2 class="saiyan text-6xl">Phase Three</h2>
+          <UiTypographyP class="mt-5">
+            BeerussuperSwap<br />
+            Beerus NFTs market place<br />
+            Dexview update<br />
+            Dextool update<br />
+            Tweeter space
+          </UiTypographyP>
+        </li>
+      </ul>
+    </section>
   </main>
 </template>
 <style>
