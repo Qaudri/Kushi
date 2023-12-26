@@ -119,7 +119,7 @@ body {
 }
 
 .background {
-  background-image: url('beerus-profile-pic.png');
+  background-image: url('/beerus-profile-pic.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
