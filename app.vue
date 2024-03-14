@@ -1,7 +1,7 @@
 <template>
   <main class="w-full md:w-2/3 lg:w-3/4 px-6 mx-auto text-white">
     <header>
-      <NuxtLink to="/">
+    <NuxtLink to="/">
         <img src="" class="w-36 mx-auto" alt="logo">
       </NuxtLink>
       <nav class="w-full flex justify-between items-center p-3 bg-white bg-opacity-10 my-5 rounded-xl">
