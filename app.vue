@@ -2,7 +2,7 @@
   <main class="w-full md:w-2/3 lg:w-3/4 px-6 mx-auto text-white">
     <header>
     <NuxtLink to="/">
-        <img src="" class="w-36 mx-auto" alt="logo">
+        <img src="/logo.jpg" class="w-48 mx-auto" alt="logo">
       </NuxtLink>
       <nav class="w-full flex justify-between items-center p-3 bg-white bg-opacity-10 my-5 rounded-xl">
         <NuxtLink class="text-white text-2xl hover:bg-blue-400 py-2 px-5 duration-300 ease-in-out cursor-pointer rounded-md">
@@ -17,6 +17,7 @@
       </nav>
     </header>
     <section>
+      <UiTypographyP>COMMUNITY TAKEOVER</UiTypographyP>
       <UiTypographyH1>KISHU INU ON SOL</UiTypographyH1>
       <UiTypographyP>Kishu Inu aims to disrupt the traditional financial system by leveraging blockchain technology and creating a decentralized ecosystem that empowers users and eliminates the need for intermediaries. Through transparency and immutability, Kishu Inu ensures that all transactions are secure and verifiable, making it a trusted and reliable platform for users to engage in financial activities.</UiTypographyP>
       <ul class="grid my-10 gap-8">
@@ -50,7 +51,7 @@
           <h2 class="saiyan text-6xl text-blue-400">Phase Two</h2>
           <UiTypographyP class="mt-3">
             Dexscreener update<br  />
-            SOL trendy<br  />
+            SOL trending<br  />
             Marketing<br  />
             AMA
           </UiTypographyP>
