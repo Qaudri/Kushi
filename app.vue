@@ -20,6 +20,16 @@
       <UiTypographyP>COMMUNITY TAKEOVER</UiTypographyP>
       <UiTypographyH1>KISHU INU ON SOL</UiTypographyH1>
       <UiTypographyP>Kishu Inu aims to disrupt the traditional financial system by leveraging blockchain technology and creating a decentralized ecosystem that empowers users and eliminates the need for intermediaries. Through transparency and immutability, Kishu Inu ensures that all transactions are secure and verifiable, making it a trusted and reliable platform for users to engage in financial activities.</UiTypographyP>
+      <div>
+        <NuxtLink to="https://t.me/kishuinuonsolana" class="px-5 py-3 bg-blue-400 hover:bg-blue-300 justify-center duration-300 ease-in-out rounded-xl outline-none focus:outline-none flex items-center gap-4">
+          <IconsTelegram class="w-7 h-7 text-white " />
+          <UiTypographyP>Join Telegram</UiTypographyP>
+        </NuxtLink>
+        <NuxtLink to="https://twitter.com/kishuonsola/" class="px-5 py-3 bg-blue-400 hover:bg-blue-300 justify-center duration-300 ease-in-out rounded-xl outline-none focus:outline-none flex items-center gap-4">
+          <IconsTwitter class="w-7 h-7 text-white " />
+          <UiTypographyP>Follow on Twitter</UiTypographyP>
+        </NuxtLink>
+      </div>
       <ul class="grid my-10 gap-8">
         <li class="border border-white p-5 rounded-tl-2xl rounded-br-2xl">
           <h2 class="saiyan text-6xl text-blue-400">MISSION AND VISION</h2>
@@ -71,6 +81,9 @@
       <div class="flex gap-5">
         <NuxtLink to="https://t.me/kishuinuonsolana" class="w-12 aspect-square bg-blue-400 hover:bg-blue-300 justify-center duration-300 ease-in-out rounded-full outline-none focus:outline-none flex items-center gap-4">
           <IconsTelegram class="w-7 h-7 text-white " />
+        </NuxtLink>
+        <NuxtLink to="https://twitter.com/kishuonsola/" class="w-12 aspect-square bg-blue-400 hover:bg-blue-300 justify-center duration-300 ease-in-out rounded-full outline-none focus:outline-none flex items-center gap-4">
+          <IconsTwitter class="w-7 h-7 text-white " />
         </NuxtLink>
       </div>
       <UiTypographyP class="mt-2">&copy;Kishu Inu, {{new Date().getFullYear()}}</UiTypographyP>
